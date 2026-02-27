@@ -18,6 +18,7 @@
       "@mendable/firecrawl-js": "^4.13.2",
       "@sentry/nextjs": "^10.40.0",
       "ai": "^6.0.100",
+      "allotment": "^1.20.5",
       "class-variance-authority": "^0.7.1",
       "clsx": "^2.1.1",
       "cmdk": "^1.1.1",
