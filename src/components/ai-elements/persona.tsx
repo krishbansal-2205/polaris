@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/immutability */
 "use client";
 
 import type { RiveParameters } from "@rive-app/react-webgl2";
