@@ -21,7 +21,7 @@ export default defineSchema({
             v.literal('cancelled'),
          ),
       ),
-      exportUrl: v.optional(v.string()),
+      exportRepoUrl: v.optional(v.string()),
       settings: v.optional(
          v.object({
             installCommand: v.optional(v.string()),
